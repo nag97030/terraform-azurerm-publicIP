@@ -1,0 +1,3 @@
+variable "pip" {
+  default = "publicip"
+}
